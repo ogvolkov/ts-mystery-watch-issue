@@ -1,0 +1,9 @@
+{
+  "name": "ts-mystery-watch-issue",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@types/jquery": "^3.2.17",
+    "typescript": "^2.6.2"
+  }
+}

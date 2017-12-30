@@ -1,0 +1,14 @@
+node_modules/
+build/*
+*.swp
+build.json
+*.actual
+*.config
+coverage/
+**/.DS_Store
+.settings
+**/.vs
+**/.vscode
+!**/.vscode/tasks.json
+.idea
+yarn.lock
