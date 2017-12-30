@@ -1,1 +1,1 @@
-import * as $ from "$"; export default function who() { return 292; }
+import * as $ from 'jquery'; export default function who() { return 292; }
